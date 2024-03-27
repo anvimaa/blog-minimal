@@ -7,8 +7,6 @@ category: "CSharp"
 draft: false
 ---
 
-_Criado com [AIPRM Prompt "Escreva o Melhor Artigo para Ranquear no Google"](https://www.aiprm.com/prompts/copywriting/writing/1784184571873726464/)_
-
 # Introdução ao C#: Dominando a Linguagem de Programação
 
 ## O Que é o C#?
