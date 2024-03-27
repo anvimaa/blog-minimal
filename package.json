@@ -1,5 +1,5 @@
 {
-  "name": "fuwari",
+  "name": "blog-minimal",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -8,9 +8,7 @@
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
-    "new-post": "node scripts/new-post.js",
-    "format": "biome format --write ./src",
-    "lint": "biome check --apply ./src"
+    "new-post": "node scripts/new-post.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.5.9",
