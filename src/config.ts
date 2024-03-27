@@ -7,12 +7,12 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'Anvima',
+  subtitle: 'Tech',
   lang: 'en',
   themeHue: 250,
   banner: {
-    enable: false,
+    enable: true,
     src: 'assets/images/demo-banner.png',
   },
 }
@@ -32,8 +32,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'Antonio Mantente',
+  bio: 'Um programador apaixonado 🥰 por finanças.',
   links: [
     {
       name: 'Twitter',
@@ -41,14 +41,14 @@ export const profileConfig: ProfileConfig = {
       url: 'https://twitter.com',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'LinkedIn',
+      icon: 'fa6-brands:linkedin',
+      url: '#',
     },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/anvimaa',
     },
   ],
 }
