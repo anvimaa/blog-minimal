@@ -1,7 +1,5 @@
 # Anvima Blog
 
-## ⚙️ Frontmatter of Posts
-
 ```yaml
 ---
 title: My First Blog Post
