@@ -1,6 +1,6 @@
 ---
 title: Primeiros passos na Linguagem C#
-published: 2024-03-28
+published: 2023-08-20
 description: Primeiros passos
 tags: [CSharp, Intro]
 category: "CSharp"

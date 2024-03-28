@@ -1,8 +1,8 @@
 ---
 title: Variaves e Tipos de Dados em C#
-published: 2024-03-29
+published: 2023-09-08
 description: Tudo que precisas saber sobre variáveis e tipos de dados em C#
-tags: [CSharp, Intro]
+tags: [CSharp, Intro,Variavel,Dados,Tipo de Dados]
 category: "CSharp"
 draft: false
 ---
