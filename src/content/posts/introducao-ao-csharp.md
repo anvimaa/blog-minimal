@@ -1,6 +1,6 @@
 ---
 title: Introdução ao C#
-published: 2024-03-03
+published: 2024-03-27
 description: Introdução ao C#, Dominando a Linguagem de Programação.
 tags: [CSharp, Intro]
 category: "CSharp"
