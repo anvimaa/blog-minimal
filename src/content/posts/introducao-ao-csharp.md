@@ -27,7 +27,7 @@ C# faz parte da plataforma .NET da Microsoft, que oferece uma biblioteca rica e 
 
 Como uma das linguagens mais populares do mundo, **C#** possui uma comunidade ativa de desenvolvedores que compartilham conhecimento, oferecem suporte e contribuem para uma variedade de bibliotecas e frameworks open-source.
 
-## Como Começar a Programar em C #
+## Como Começar a Programar em CSharp
 
 Se você está interessado em aprender **C#**, aqui estão algumas etapas para começar:
 
