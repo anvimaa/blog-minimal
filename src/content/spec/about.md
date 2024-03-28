@@ -40,13 +40,27 @@
 
 ### Projetos Destacados
 
-#### TransGest v2
+#### TransGest
 
-- Desenvolvimento de um aplicativo web para gerenciar as actividades da Direcção Municipal dos Transportes, tráfego e Mobilidade do Uíge, utilizando .NET Blazor no frontend e C# com Minimals API no backend. Integração com banco de dados SQLServer.
+TransGest é um sistema de gerenciamento e licenciamento de carros, motociclos, oficinas e instalações afins. O sistema permite a gestão de recursos, controle de fluxo de veículos, gestão de proprietarios e mototaxistas, entre outras funcionalidades.
 
-#### Blog Pessoal
+- Tecnologias usadas
+  - .NET Blazor 7
+  - EntityFramework 7
+  - SQLServer.
+- [Link do Projecto](https://github.com/anvimaa/AMUTRANSAPPv2)
 
-- Criação de um blog pessoal onde escrevo sobre tecnologia, programação e desenvolvimento de software. Desenvolvido utilizando ASTRO.JS e hospedado na vercel.
+#### SG2T
+
+O Sistema de Geolocalização para Gerenciamento de Terrenos (SG2T) é uma solução inovadora e eficiente para identificar e mapear propriedades em uma determinada localidade. Desenvolvido para atender às necessidades de empresas imobiliárias, órgãos governamentais, e proprietários individuais, o sistema oferece uma plataforma abrangente para o cadastro, visualização e gerenciamento de informações relacionadas a terrenos e seus respectivos proprietários.
+
+- Tecnologias usadas
+  - Node.Js
+  - Express
+  - Prisma ORM
+  - Leaflet.Js
+  - Handlebars
+- [Link do Projecto](https://github.com/anvimaa/sg2t)
 
 ### Contatos
 

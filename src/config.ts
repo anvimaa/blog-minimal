@@ -31,7 +31,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/avatar.jpg',
+  avatar: 'assets/images/avatar-1.jpg',
   name: 'Antonio Mantente',
   bio: 'Um programador apaixonado 🥰 por finanças.',
   links: [
