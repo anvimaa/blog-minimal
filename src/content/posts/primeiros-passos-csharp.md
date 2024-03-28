@@ -7,8 +7,6 @@ category: "CSharp"
 draft: false
 ---
 
-# Primeiros Passos na Linguagem CSharp
-
 C# é uma linguagem de programação moderna, orientada a objetos e fortemente tipada. É uma das linguagens fundamentais para o desenvolvimento no ambiente .NET da Microsoft. O C# é amplamente utilizado para desenvolver uma variedade de aplicações, desde aplicações web até aplicativos móveis e jogos.
 
 ## Configuração do Ambiente de Desenvolvimento

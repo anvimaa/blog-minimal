@@ -7,8 +7,6 @@ category: "CSharp"
 draft: false
 ---
 
-# Introdução ao C#: Dominando a Linguagem de Programação
-
 ## O Que é o C#?
 
 **C#** é uma linguagem de programação moderna, versátil e poderosa desenvolvida pela Microsoft. Lançada em 2000, foi projetada com o objetivo de combinar a facilidade de uso do Visual Basic com a robustez e o desempenho do C++. Desde então, tornou-se uma das linguagens mais populares do mundo, amplamente utilizada no desenvolvimento de uma variedade de aplicativos, desde aplicações de desktop até aplicativos móveis e serviços web.
