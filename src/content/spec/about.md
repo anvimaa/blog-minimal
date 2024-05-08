@@ -47,6 +47,7 @@ TransGest é um sistema de gerenciamento e licenciamento de carros, motociclos, 
 - Tecnologias usadas
   - Node.JS
   - Framework: SvelteKit
+  - Prisma ORM
   - PostgreSQL
   - TailwindCSS
 - [Link do Projecto](https://github.com/anvimaa/AMUTRANSAPPv2)
