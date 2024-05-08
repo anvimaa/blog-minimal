@@ -28,26 +28,27 @@
 *Uíge, Angola* | *Presente*
 
 - Ênfase em desenvolvimento de software e sistemas distribuídos.
-- Participação em projetos de pesquisa nas áreas de Inteligência Artificial e Computação Gráfica.
+- Participação em projetos de pesquisa nas áreas de Inteligência Artificial, Sistemas Distribuídos, Análise de Dados e Computação Gráfica.
 - Atividades extracurriculares em clubes de programação e hackathons.
 
 ### Habilidades Técnicas
 
-- **Linguagens de Programação:** Visual Basic .NET. C#, JavaScript, HTML5, CSS3, Python
-- **Frameworks e Bibliotecas:** ASP.NET MVC, ASP.NET Core, Blazor, Svelte.Js, SvelteKit, Node.js, Express.js, TalwindCSS
-- **Bancos de Dados:** MongoDB, MySQL, PostgreSQL, SQLServer
+- **Linguagens de Programação:** Visual Basic .NET, C#, JavaScript, Python, Rust.
+- **Frameworks e Bibliotecas:** ASP.NET Core, Entity Framework, Blazor, SvelteKit, Node.js, Express.js, TalwindCSS, JQuery
+- **Bancos de Dados:** MySQL, PostgreSQL, SQLServer, NoSQL MongoDB
 - **Metodologias e Ferramentas:** Git, Agile (Scrum, Kanban), Docker, RESTful APIs, GraphQL
 
 ### Projetos Destacados
 
 #### TransGest
 
-TransGest é um sistema de gerenciamento e licenciamento de carros, motociclos, oficinas e instalações afins. O sistema permite a gestão de recursos, controle de fluxo de veículos, gestão de proprietarios e mototaxistas, entre outras funcionalidades.
+TransGest é um sistema de gerenciamento e licenciamento de carros, motociclos, oficinas e instalações afins. O sistema permite a gestão de recursos, controle de fluxo de veículos, gestão de proprietarios e mototaxistas, entre outras funcionalidades desenvolvidas na Direção Municipal dos Transportes, Tráfego e Mobilidade Urbana do Uíge.
 
 - Tecnologias usadas
-  - .NET Blazor 7
-  - EntityFramework 7
-  - SQLServer.
+  - Node.JS
+  - Framework: SvelteKit
+  - PostgreSQL
+  - TailwindCSS
 - [Link do Projecto](https://github.com/anvimaa/AMUTRANSAPPv2)
 
 #### SG2T
