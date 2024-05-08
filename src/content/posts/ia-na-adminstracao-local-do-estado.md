@@ -29,7 +29,9 @@ A IA automatiza tarefas administrativas repetitivas e maçantes, como análise d
 
 Exemplo Prático: Em um órgão público que recebe um alto volume de solicitações de certidões, a IA pode automatizar a análise dos documentos, a verificação da autenticidade dos dados e a emissão das certidões, liberando os servidores para que possam prestar um atendimento mais personalizado aos cidadãos, esclarecer dúvidas e orientá-los sobre outros serviços disponíveis.
 
-### Simulação Preditiva de Cenários: A IA possibilita a simulação de diferentes cenários hipotéticos, permitindo aos gestores públicos avaliar o impacto de diversas políticas e decisões antes de sua implementação. Essa ferramenta fornece insights valiosos para a escolha da melhor alternativa em diferentes situações, minimizando riscos, otimizando resultados e alocando recursos de forma mais eficiente.
+### Simulação Preditiva de Cenários:
+
+A IA possibilita a simulação de diferentes cenários hipotéticos, permitindo aos gestores públicos avaliar o impacto de diversas políticas e decisões antes de sua implementação. Essa ferramenta fornece insights valiosos para a escolha da melhor alternativa em diferentes situações, minimizando riscos, otimizando resultados e alocando recursos de forma mais eficiente.
 
 Exemplo Prático: Ao planejar a construção de um novo hospital, a gestão pública pode utilizar a IA para simular diferentes cenários, como o impacto da obra na mobilidade urbana, a demanda por serviços de saúde na região e a viabilidade econômica do projeto. Essa simulação permite avaliar diferentes alternativas de localização, tamanho e estrutura do hospital, além de prever os custos e os benefícios da obra, antes de tomar a decisão final.
 
