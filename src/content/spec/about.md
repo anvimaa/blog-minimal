@@ -23,7 +23,7 @@
 
 ### Educação
 
-#### Bacharel em Engenharia Informática - Universidade Kimpa Vita
+#### Frequência Universitária em Engenharia Informática, Instituto Politécnico da Universidade Kimpa Vita
 
 *Uíge, Angola* | *Presente*
 
