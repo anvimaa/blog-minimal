@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Anvima',
-  subtitle: 'Tech',
+  subtitle: 'Code',
   lang: 'pt',
   themeHue: 250,
   banner: {
